@@ -6,7 +6,9 @@ font-size: 22px;
 
 h1{
  color: darkred;
+ text-align: center;
 }
+
 h3{
     color: brown;
 }
